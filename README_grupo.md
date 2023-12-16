@@ -2,7 +2,7 @@
 
 **¡Encuentra al asesino!**
 
-## Descripción
+## Descripción.
 
 
 Este proyecto aborda un caso de asesinato ocurrido el 15 de enero de 2018 en SQL City, desafiando a los participantes a utilizar sus habilidades en SQL para descubrir al culpable. A través de una serie de etapas los participantes navegan por una base de datos compleja, extrayendo información crucial y conectando pistas para resolver el misterio.
